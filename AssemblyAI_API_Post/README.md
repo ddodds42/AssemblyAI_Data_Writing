@@ -19,3 +19,6 @@ Seriously. Don't believe me? Below is the audio recording of my sweet, sultry vo
 I would have spoken this entire post by voice, but because of my limited human memory, I would have to script it in writing, and that defeats the proof of concept, now doesn't it? Here's how you can transcribe your audio files with Python too.
 
 ## Sign up for an AssemblyAI API Token
+You can sign up for a [free AssemblyAI account in](https://app.assemblyai.com/login/) seconds by just entering your email address. After you verify your account from your email address, you're taken right back to your new account where you can see your API token in your dashboard.
+
+![AssemblyAI_token]()
