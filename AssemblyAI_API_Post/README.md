@@ -2,7 +2,7 @@
 Link above is the post on AssemblyAI's blog.
 Below is the same article.
 
-#How to transcribe an audio file with Python and AssemblyAI
+# How to transcribe an audio file with Python and AssemblyAI
 ### APRIL 30, 2021
 
 ```
