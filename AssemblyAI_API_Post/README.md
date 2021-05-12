@@ -124,4 +124,6 @@ Once the **status** is **"completed"**, the second print statement **print(statu
 
 My mom did manual transcription work in the 90's, and she hated it. REJOICE at this beautiful API that AssemblyAI has created for you, and all the headaches it can save you.
 
-![for_you]()
+![for_you](https://github.com/ddodds42/AssemblyAI_Data_Writing/raw/master/AssemblyAI_API_Post/I%20made%20this%20for%20you.jpg)
+
+The full sequential code can be found in this [colab notebook here](https://colab.research.google.com/drive/12ZmHK6cplmhDOh9gWXgonWG_sw32VSpF?usp=sharing)! Happy transcribing!
