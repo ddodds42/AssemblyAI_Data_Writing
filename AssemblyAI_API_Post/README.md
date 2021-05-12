@@ -3,7 +3,7 @@ Link above is the post on AssemblyAI's blog.
 Below is the same article.
 
 #How to transcribe an audio file with Python and AssemblyAI
-## APRIL 30, 2021
+### APRIL 30, 2021
 
 ```
 This introduction paragraph is special. Why is it special? Well, if you're 10
@@ -14,4 +14,8 @@ with Python using the Assembly AI API.
 
 Seriously. Don't believe me? Below is the audio recording of my sweet, sultry voice creating that paragraph. I spoke it off the cuff, and it only took me 2 takes to not stumble over my own words that I imagined 😅.
 
-![inception]()
+![inception](https://github.com/ddodds42/AssemblyAI_Data_Writing/raw/master/AssemblyAI_API_Post/inception_transcription.jpg)
+
+I would have spoken this entire post by voice, but because of my limited human memory, I would have to script it in writing, and that defeats the proof of concept, now doesn't it? Here's how you can transcribe your audio files with Python too.
+
+## Sign up for an AssemblyAI API Token
