@@ -1,4 +1,4 @@
-#Transcribing YouTube Videos Using AssemblyAI in Python
+# Transcribing YouTube Videos Using AssemblyAI in Python
 
 In this post, we’re going to show you how to transcribe YouTube videos, by connecting just the video url to AssemblyAI’s automatic speech recognition API in Python. More specifically, we’ll walk you through:
 
