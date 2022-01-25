@@ -1,5 +1,5 @@
 # [How to transcribe an audio file with Python and AssemblyAI](https://www.assemblyai.com/blog/how-to-transcribe-an-audio-file-with-python-and-assemblyai)
-Link above is the post on AssemblyAI's blog.
+Link above was the post on AssemblyAI's blog.
 Below is the same article.
 
 # How to transcribe an audio file with Python and AssemblyAI
